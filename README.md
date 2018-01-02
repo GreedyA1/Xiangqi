@@ -4,7 +4,7 @@
 
 Xiàngqí is a game of strategy that is similar to the game that we know as chess. It has a different type of board and pieces that are similar to standard chess pieces, but with quite different rules.
 
-
+![Xiangqi](images/cmd.PNG?raw=true "Xiangqi")
 
 ## Getting Started
 
@@ -33,13 +33,9 @@ Delta   Xiàngqí is the full version of the game.
 * [Eclipse](https://www.eclipse.org/downloads/) - IDE for java.
 * [JRE 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) - Java Developement Environment or Developent Kit.
 
-### Build
+### Testing
 
-To start the server run the server.java file from Eclipse. 
-After the server is running you need to make sure 5566 port is open on your machine and is not blocked by firewall.
-After starting the server each client should run the Client.java file. 
-After running the file client can choose their name and login to the server with specified IP address by clicking the connect button.
-
+The project contains a testing folder. There you can find test files for each version. All test are written in JUnit.
 
 ## Authors
 
